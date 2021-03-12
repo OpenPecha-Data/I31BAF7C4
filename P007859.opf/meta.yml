@@ -5,11 +5,13 @@ source_metadata:
   title: ཐུབ་ཆོག་བྱིན་རླབས་གཏེར་མཛོད་ཀྱི་རྒྱབ་ཆོས་པདྨ་དཀར་པོ།
   author: ''
   volumes:
-    85f6a6576ebe45bab931c3da2d510405:
+    7a8ebbb5236640b2a0867a3860664547:
       image_group_id: I4PD554
-      title: ''
+      title: Volume 1 of thub chog byin rlabs gter mdzod kyi rgyab chos pad+ma dkar
+        po/
       volume_number: 1
       total_pages: 1012
+      base_file: v001.txt
 ebook_metadata:
   title: ཐུབ་ཆོག་བྱིན་རླབས་གཏེར་མཛོད་ཀྱི་རྒྱབ་ཆོས་པདྨ་དཀར་པོ།
   author: ''
